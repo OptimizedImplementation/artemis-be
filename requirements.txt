@@ -1,0 +1,5 @@
+requests
+Flask
+mysql
+numpy
+pandas
